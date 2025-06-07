@@ -31,7 +31,7 @@ Mi objetivo es seguir aprendiendo y creciendo como profesional en el campo de la
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](www.linkedin.com/in/sebastian-galvis-040495318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-galvis-040495318)
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?logo=firefox&logoColor=orange)](https://tu-sitio-web.com)
