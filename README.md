@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Jojans
+# 👋 ¡Hi! Im Jojans
 
-### 🚀 Estudiante de Ingeniería en Sistemas | Apasionado por la tecnología y la innovación
+### 🚀 Systems Engineering Student | Passionate about technology and innovation
 
 Ninth-semester Systems Engineering student with a strong background in software development, data analysis, and technology project management. Skilled at transforming technical requirements and complex data into practical and efficient solutions. Academic experience in programming, databases, and agile methodologies. Recognized for teamwork, analytical thinking, and adaptability under pressure.
 
