@@ -23,6 +23,8 @@ My goal is to continue learning and growing as a professional in the field of sy
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-galvis-040495318)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://www.linkedin.com/in/sebastian-galvis-040495318)
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?logo=firefox&logoColor=orange)](https://tu-sitio-web.com)
