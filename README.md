@@ -8,7 +8,7 @@ Ninth-semester Systems Engineering student with a strong background in software 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript
+- **Programming Languages:** Java, Python, HTML, CSS, JavaScript, R, MATLAB
 - **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
 - **DevOps and Cloud:** Git, Docker, Kubernetes, Azure
 
