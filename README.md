@@ -1,30 +1,33 @@
-# 👋 ¡Hi! Im Jojans
+# 👋 ¡Hola! Soy Jojans
 
-### 🚀 Systems Engineering Student | Passionate about technology and innovation
+### 🚀 Estudiante de Ingeniería de Sistemas | Desarrollador de Software | Apasionado por la Innovación
 
-Ninth-semester Systems Engineering student with a strong background in software development, data analysis, and technology project management. Skilled at transforming technical requirements and complex data into practical and efficient solutions. Academic experience in programming, databases, and agile methodologies. Recognized for teamwork, analytical thinking, and adaptability under pressure.
+Soy estudiante de noveno semestre de Ingeniería de Sistemas en la **Universidad Industrial de Santander (UIS)** con experiencia en desarrollo de software, análisis de datos y gestión de proyectos tecnológicos.  
 
----
-
-## 🛠️ Skills
-
-- **Programming Languages:** Java, Python, HTML, CSS, JavaScript, R, MATLAB
-- **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
-- **DevOps and Cloud:** Git, Docker, Kubernetes, Azure
+Me apasiona crear soluciones prácticas y eficientes a partir de requerimientos técnicos y datos complejos. Me caracterizo por el pensamiento analítico, la adaptabilidad y el trabajo en equipo.  
 
 ---
 
-## 🎯 Goals
+## 🛠️ Habilidades Técnicas
 
-My goal is to continue learning and growing as a professional in the field of systems engineering, with the hope of contributing to innovative projects that have a positive impact on society. I am interested in opportunities that allow me to apply my knowledge and skills and that offer a challenging and collaborative environment.
+- **Lenguajes:** Java, Python, C++, R, MATLAB, JavaScript, HTML, CSS  
+- **Frameworks & Librerías:** Flask, FastAPI, Django, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Bootstrap, Tailwind CSS  
+- **Bases de Datos:** MongoDB, MySQL, PostgreSQL  
+- **DevOps & Cloud:** Git, Docker, Kubernetes, CI/CD, Azure  
+- **Metodologías:** Agile, Scrum, Kanban, Waterfall  
+- **Otros:** Patrones de diseño (Adapter, Template Method, MVC), Testing (Black/White box)  
+---
+
+## 🎯 Objetivos
+
+Mi objetivo es crecer como **ingeniero de software y especialista en DevOps/Machine Learning**, contribuyendo a proyectos innovadores que generen impacto positivo en la sociedad. Me interesan entornos **colaborativos, desafiantes y con aprendizaje continuo**.  
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-galvis-040495318)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:johan.galvis2003@gmail.com)
-<!--
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?logo=firefox&logoColor=orange)](https://tu-sitio-web.com)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-galvis-040495318)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:johan.galvis2003@gmail.com)  
+
+---
+
+✨ *“El aprendizaje constante y la innovación son el motor para transformar ideas en soluciones reales.”*  
