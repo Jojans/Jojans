@@ -1,6 +1,6 @@
 <h1>👋 Hi! I'm Jojans </h1>
 
-🧠 Computer Science student at UIS
+🧠 Computer Science student at UIS (Universidad Industrial de Santander).
 
 💻 Passionate about software development, data science, and programming.
 
