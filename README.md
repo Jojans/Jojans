@@ -1,12 +1,12 @@
-<h1>👋 Hi! I'm Jojans </h1>
+<h1>Hi! I'm Jojans </h1>
 
-🧠 Computer Science student at UIS (Universidad Industrial de Santander).
+Computer Science student at UIS (Universidad Industrial de Santander).
 
-💻 Passionate about software development, data science, and programming.
+Passionate about software development, data science, and programming.
 
-💫 My goal is to continue learning and growing as a professional in the field of systems engineering, with the hope of contributing to innovative projects that have a positive impact on society. I am interested in opportunities that allow me to apply my knowledge and skills and that offer a challenging and collaborative environment.
+My goal is to continue learning and growing as a professional in the field of systems engineering, with the hope of contributing to innovative projects that have a positive impact on society. I am interested in opportunities that allow me to apply my knowledge and skills and that offer a challenging and collaborative environment.
 
-🌐 Connect with me
+Connect with me
 <a href="https://www.linkedin.com/in/sebastian-galvis-040495318"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
 
 ---
