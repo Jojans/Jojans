@@ -2,7 +2,7 @@
 
 Computer Science student at UIS (Universidad Industrial de Santander).
 
-Passionate about software development, data science, and programming.
+Passionate about data science, software development and programming.
 
 My goal is to continue learning and growing as a professional in the field of systems engineering, with the hope of contributing to innovative projects that have a positive impact on society. I am interested in opportunities that allow me to apply my knowledge and skills and that offer a challenging and collaborative environment.
 
