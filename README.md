@@ -1,4 +1,4 @@
-Computer Science student at UIS (Universidad Industrial de Santander).
+Universidad Industrial de Santander (UIS)
 
 Connect with me
 <a href="https://www.linkedin.com/in/sebastian-galvis-040495318"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
